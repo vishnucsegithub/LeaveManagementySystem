@@ -66,7 +66,6 @@ namespace FeedbackAPI.Controllers
             }
             catch (Exception ex)
             {
-
                 return BadRequest(ex.Message);
             }
 
