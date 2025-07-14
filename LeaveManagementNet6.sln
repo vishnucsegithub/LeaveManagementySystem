@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeaveManagement.web", "LeaveManagement.web\LeaveManagement.web.csproj", "{016FFEFE-B7A0-4661-AADF-010E6EE27FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackAPI", "FeedbackAPI\FeedbackAPI.csproj", "{31EF2F80-5E83-43D9-88A7-8A3974DC559B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016FFEFE-B7A0-4661-AADF-010E6EE27FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016FFEFE-B7A0-4661-AADF-010E6EE27FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016FFEFE-B7A0-4661-AADF-010E6EE27FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016FFEFE-B7A0-4661-AADF-010E6EE27FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EF2F80-5E83-43D9-88A7-8A3974DC559B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EF2F80-5E83-43D9-88A7-8A3974DC559B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EF2F80-5E83-43D9-88A7-8A3974DC559B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EF2F80-5E83-43D9-88A7-8A3974DC559B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C0B677-B378-4E32-A20B-C4EAFDDD9F41}
+	EndGlobalSection
+EndGlobal
